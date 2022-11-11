@@ -10,4 +10,4 @@
 
 #### RDS : The database on Amazon
 
-![image](../data/img/AWS.jpg)
+![image](./data/img/AWS.jpg)
