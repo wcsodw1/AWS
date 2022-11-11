@@ -1,4 +1,4 @@
-# AWS : Sharing the skill that I use in AWS, and deploy the Project I experienced on it.
+# AWS : The experienced of using AWS, deployed Program-Project.
 
 - Local Address : /mnt/c/Users/user/Desktop/Github_NEW/AWS
 
