@@ -1,19 +1,11 @@
 # AWS : Sharing the skill that I use in AWS, and deploy the Project I experienced on it.
 
-- Local Address : /mnt/c/Users/user/Desktop/Github_NEW/AWS/AWS_Cloud/
+- Local Address : /mnt/c/Users/user/Desktop/Github_NEW/AWS
 
-## EC2 :
+#### EC2 : Set up machine in AWS <br>
 
-- Built your own machine in amazon website service <br>
+#### S3 : Store object in AWS(ex : img, video, ...and so on.)
 
-## S3 :
+#### VPC : Built up Private and Public Subnet for setting multiple IP address, depart public and private network.
 
-- Store object in AWS(ex : img, video, ...and so on.)
-
-## VPC :
-
-- Built up Private and Public Subnet.
-
-## RDS :
-
-- The database on Amazon
+#### RDS : The database on Amazon
