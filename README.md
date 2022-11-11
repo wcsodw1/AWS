@@ -1,4 +1,4 @@
-# AWS : The experienced of using AWS, deployed Program-Project.
+# AWS : The tool & deployed Project experienced on AWS.
 
 - Local Address : /mnt/c/Users/user/Desktop/Github_NEW/AWS
 
