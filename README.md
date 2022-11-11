@@ -1,6 +1,6 @@
 # AWS
 
-Sharing how I use AWS, and deploy the Project on my work
+Sharing how I use AWS, and deploy the Project I experienced on it.
 
 - Local Address : /mnt/c/Users/user/Desktop/Github_NEW/AWS/AWS_Cloud/
 
