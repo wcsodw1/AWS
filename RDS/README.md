@@ -14,3 +14,7 @@ so even through the instances is terminated, the data in RDS still exist.
 
 - Automate back-up the data, and data-restoration via snapshot(可自動備份資料, 並可經由 snapshot 還原)
   ![](../data/img/RDS/supported_database.jpg)
+- Read and Write(POS) divide (讀寫分離功能, 分流資料庫, 將使用者讀寫功能區分開來)
+  ![](../data/img/RDS/read_replica.jpg)
+- multi-AZ : The stand-by database(隨時備著的 db, 主 db 若壞掉將直接接手)
+  ![](../data/img/RDS/multi-AZ.jpg)
