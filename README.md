@@ -9,3 +9,5 @@
 #### VPC : Built up Private and Public Subnet for setting multiple IP address, depart public and private network.
 
 #### RDS : The database on Amazon
+
+![image](../data/img/AWS.jpg)
