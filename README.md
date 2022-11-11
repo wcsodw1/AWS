@@ -1,8 +1,8 @@
-# AWS_Cloud
+# AWS
+
+Sharing how I use AWS, and deploy the Project on my work
 
 - Local Address : /mnt/c/Users/user/Desktop/Github_NEW/AWS/AWS_Cloud/
-
-AWS CloudService Project
 
 ## 1.EC2 : Built your own machine in amazon website service <br>
 
